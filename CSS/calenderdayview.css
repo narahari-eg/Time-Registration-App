@@ -1,0 +1,74 @@
+.sidebar {
+  box-shadow: 1px 2px 5px rgb(220, 216, 216);
+  height: 150%;
+}
+.sidebar .header {
+  box-shadow: 1px 2px 3px rgb(236, 234, 234);
+  width: 103%;
+}
+.sidebar .header p {
+  margin-left: 2.5rem;
+}
+.sidebar .first-part .side-icons,
+.sidebar .second-part .side-icons {
+  display: flex;
+}
+.sidebar .first-part .side-icons svg,
+.sidebar .second-part .side-icons svg {
+  margin-left: 2rem;
+}
+.sidebar .first-part .side-icons p,
+.sidebar .second-part .side-icons p {
+  margin-top: -5px;
+  margin-left: 3rem;
+}
+.sidebar .second-part {
+  margin-top: 140%;
+}
+
+.right-part .dropdown a {
+  background-color: white;
+  box-shadow: 1px 2px 3px rgb(235, 232, 232);
+}
+.right-part .alert-msg {
+  width: 90%;
+  margin-left: 2rem;
+}
+.right-part .firstp {
+  border-right: 5px solid;
+  border-radius: 1rem;
+  background-color: orange;
+}
+.right-part .card {
+  margin-top: 10px !important;
+  box-shadow: 1px 2px 4px rgb(229, 226, 226);
+  width: 90%;
+  border: none;
+  margin-left: 2rem;
+}
+.right-part .card p {
+  margin-left: 1rem;
+}
+.right-part #card1 {
+  border-left: 3px solid orange;
+}
+.right-part #card2,
+.right-part #card3,
+.right-part #card4 {
+  border-left: 3px solid #a3cae9;
+}
+.right-part #card4 {
+  z-index: -1;
+}
+.right-part .stickyicons {
+  width: 100%;
+  position: fixed;
+}
+.right-part .stickyicons svg {
+  position: absolute;
+  margin-left: 1030px;
+  margin-top: -5rem;
+  z-index: 1;
+  width: 3rem;
+  height: 3rem;
+}/*# sourceMappingURL=calenderdayview.css.map */
