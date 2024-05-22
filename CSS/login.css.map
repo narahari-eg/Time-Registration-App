@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"sources":[],"names":[],"mappings":"","file":"login.css"}
+=======
+{"version":3,"sources":["login.scss","login.css"],"names":[],"mappings":"AAAA;EACI,eAAA;EACA,gBAAA;EACA,cAAA;ACCJ;;ADCA;EACI,eAAA;EACA,gBAAA;EACA,cAAA;ACEJ;;ADAA;EACI,kBAAA;EACA,QAAA;EACA,WAAA;EACA,2BAAA;EACA,eAAA;ACGJ","file":"login.css"}
+>>>>>>> 0bd1be5b53271228556827aad44e77cc0999cb8d

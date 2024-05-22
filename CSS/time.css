@@ -1,0 +1,48 @@
+.sidebar {
+  box-shadow: 1px 2px 5px rgb(220, 216, 216);
+  height: 150%;
+}
+.sidebar .header {
+  box-shadow: 1px 2px 3px rgb(236, 234, 234);
+  width: 105%;
+}
+.sidebar .header p {
+  margin-left: 2.5rem;
+}
+.sidebar .first-part .side-icons,
+.sidebar .second-part .side-icons {
+  display: flex;
+}
+.sidebar .first-part .side-icons svg,
+.sidebar .second-part .side-icons svg {
+  margin-left: 2rem;
+}
+.sidebar .first-part .side-icons p,
+.sidebar .second-part .side-icons p {
+  margin-top: -5px;
+  margin-left: 3rem;
+}
+.sidebar .second-part {
+  margin-top: 140%;
+}
+
+.right-part .dropdown a {
+  background-color: white;
+  box-shadow: 1px 2px 3px rgb(235, 232, 232);
+}
+.right-part .alert-msg {
+  width: 90%;
+  margin-left: 2rem;
+}
+.right-part .firstp {
+  border-right: 5px;
+  background-color: white;
+}
+.right-part .card {
+  margin-top: 10px !important;
+  box-shadow: 1px 2px 4px rgb(229, 226, 226);
+  width: 50%;
+  border: none;
+  margin-left: 2rem;
+  border-left: 4px solid #A3CAE9;
+}/*# sourceMappingURL=time.css.map */

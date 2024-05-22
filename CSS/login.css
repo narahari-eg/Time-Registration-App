@@ -1,1 +1,23 @@
+<<<<<<< HEAD
 /*# sourceMappingURL=login.css.map */
+=======
+h3 {
+  font-size: 32px;
+  font-weight: 500;
+  color: #001F3F;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #708090;
+}
+
+.eye-icon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  cursor: pointer;
+}/*# sourceMappingURL=login.css.map */
+>>>>>>> 0bd1be5b53271228556827aad44e77cc0999cb8d
