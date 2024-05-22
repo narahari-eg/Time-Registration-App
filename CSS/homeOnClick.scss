@@ -1,0 +1,121 @@
+.sidebar {
+    box-shadow: 1px 2px 5px rgb(220, 216, 216);
+    height: 100%;
+    .header {
+      box-shadow: 1px 2px 3px rgb(236, 234, 234);
+      width: 105%;
+      p {
+        margin-left: 2.5rem;
+      }
+    }
+    .first-part,
+    .second-part {
+      .side-icons {
+        display: flex;
+        svg {
+          margin-left: 2rem;
+        }
+        p {
+          margin-top: -5px;
+          margin-left: 3rem;
+        }
+        button{
+            margin-top: -5px;
+            margin-left: 2rem;
+        }
+      }
+    }
+    .second-part {
+      margin-top: 140%;
+    }
+  }
+
+
+
+// .card{
+    
+//     background-color: rgba(210, 207, 207, 0.671);
+    
+// }
+
+.num{
+     margin-left: 1rem;   
+}
+.card-header{
+    p{
+        font-size: 24px;   
+     }
+     h1{
+        font-size: 24px;
+        display: flex;
+     }
+     h2{
+        display: flex;
+     }
+     .ch1{
+        display: flex;
+        top: 24px;
+        .text{
+            font-size: 18px;
+     }
+}
+}
+.yellow{
+    color: rgb(244, 226, 20);
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.right-side{
+    margin-top: 32px;
+    // margin-bottom: 32px;
+    // margin-left: 48px;
+    // margin-right: 48px;
+    // margin-top: 24px;
+    .hours{
+      margin-left: 30px;   
+    }
+    .card1{
+      background-image: linear-gradient(to right, rgb(110, 105, 105),rgb(231, 228, 222),rgb(164, 189, 204),rgb(110, 114, 119),rgb(164, 193, 219),rgb(241, 243, 237),rgb(126, 122, 126));
+      margin-left: 30px;
+        margin-right: 30px;
+    }
+    .card2{
+      margin-top: 10px !important;  
+      margin-left: 30px;
+        margin-right: 30px;
+        box-shadow: 1px 2px 4px rgb(229, 226, 226);
+        border-left: 3px solid #4682B4;
+
+        background-image: linear-gradient(white);
+        h5{
+          margin-left: 625px;
+        }
+        margin-bottom: 10px;
+        
+    }
+    .card3{
+      margin-top: 10px !important;
+      margin-left: 30px;
+      margin-right: 30px;
+      box-shadow: 1px 2px 4px rgb(229, 226, 226);
+      border-left: 3px solid rgb(171, 218, 254);
+
+      background-image: linear-gradient(white);
+      h5{
+          margin-left: 35px;
+      }
+      
+  }
+    li{
+        top: 40px;
+        bottom: 24px;
+        width: 32%;
+        text-align: center;
+    }
+    ul{
+      margin-left: 30px;
+      margin-right: 30px;
+      margin-top: 24px;
+    }
+}

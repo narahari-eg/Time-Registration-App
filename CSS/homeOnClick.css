@@ -1,0 +1,106 @@
+.sidebar {
+  box-shadow: 1px 2px 5px rgb(220, 216, 216);
+  height: 100%;
+}
+.sidebar .header {
+  box-shadow: 1px 2px 3px rgb(236, 234, 234);
+  width: 105%;
+}
+.sidebar .header p {
+  margin-left: 2.5rem;
+}
+.sidebar .first-part .side-icons,
+.sidebar .second-part .side-icons {
+  display: flex;
+}
+.sidebar .first-part .side-icons svg,
+.sidebar .second-part .side-icons svg {
+  margin-left: 2rem;
+}
+.sidebar .first-part .side-icons p,
+.sidebar .second-part .side-icons p {
+  margin-top: -5px;
+  margin-left: 3rem;
+}
+.sidebar .first-part .side-icons button,
+.sidebar .second-part .side-icons button {
+  margin-top: -5px;
+  margin-left: 2rem;
+}
+.sidebar .second-part {
+  margin-top: 140%;
+}
+
+.num {
+  margin-left: 1rem;
+}
+
+.card-header p {
+  font-size: 24px;
+}
+.card-header h1 {
+  font-size: 24px;
+  display: flex;
+}
+.card-header h2 {
+  display: flex;
+}
+.card-header .ch1 {
+  display: flex;
+  top: 24px;
+}
+.card-header .ch1 .text {
+  font-size: 18px;
+}
+
+.yellow {
+  color: rgb(244, 226, 20);
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.right-side {
+  margin-top: 32px;
+}
+.right-side .hours {
+  margin-left: 30px;
+}
+.right-side .card1 {
+  background-image: linear-gradient(to right, rgb(110, 105, 105), rgb(231, 228, 222), rgb(164, 189, 204), rgb(110, 114, 119), rgb(164, 193, 219), rgb(241, 243, 237), rgb(126, 122, 126));
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.right-side .card2 {
+  margin-top: 10px !important;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-shadow: 1px 2px 4px rgb(229, 226, 226);
+  border-left: 3px solid #4682B4;
+  background-image: linear-gradient(white);
+  margin-bottom: 10px;
+}
+.right-side .card2 h5 {
+  margin-left: 625px;
+}
+.right-side .card3 {
+  margin-top: 10px !important;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-shadow: 1px 2px 4px rgb(229, 226, 226);
+  border-left: 3px solid rgb(171, 218, 254);
+  background-image: linear-gradient(white);
+}
+.right-side .card3 h5 {
+  margin-left: 35px;
+}
+.right-side li {
+  top: 40px;
+  bottom: 24px;
+  width: 32%;
+  text-align: center;
+}
+.right-side ul {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 24px;
+}/*# sourceMappingURL=homeOnClick.css.map */

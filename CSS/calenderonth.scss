@@ -1,0 +1,83 @@
+.sidebar {
+    box-shadow: 1px 2px 5px rgb(220, 216, 216);
+    height: 150%;
+    .header {
+      box-shadow: 1px 2px 3px rgb(236, 234, 234);
+      width: 105%;
+      p {
+        margin-left: 2.5rem;
+      }
+    }
+    .first-part,
+    .second-part {
+      .side-icons {
+        display: flex;
+        svg {
+          margin-left: 2rem;
+        }
+        p {
+          margin-top: -5px;
+          margin-left: 3rem;
+        }
+      }
+    }
+    .second-part {
+      margin-top: 140%;
+    }
+  }
+   
+  .right-part {
+    .table1{
+      td{
+        padding-left: 5rem;
+        font-size: 1.2rem;
+        
+      }
+    }
+    
+    #btn-clr{
+      background-color: rgb(55, 74, 219);
+      color: white;
+    }
+    .dropdown2023 {
+      a {
+        background-color: white;
+        box-shadow: 1px 2px 3px rgb(235, 232, 232);
+        
+      }
+      margin-left: 45%;
+    }
+    .alert-msg {
+      width: 90%;
+      margin-left: 2rem;
+    }
+    .firstp {
+      border-right: 5px solid;
+      border-radius: 1rem;
+      background-color: orange;
+    }
+    .card {
+      margin-top: 10px !important;
+      box-shadow: 1px 2px 4px rgb(229, 226, 226);
+      width: 90%;
+      border: none;
+      margin-left: 2rem;
+      border-left: 3px solid orange;
+    }
+    .stickyicons{
+       width: 100%;
+      position: relative;
+   
+      svg {
+        position: absolute;
+        margin-left: 800px;
+        
+        z-index: 1;
+        width: 3rem;
+        height: 3rem;
+      }
+    
+    }
+  }
+
+   
