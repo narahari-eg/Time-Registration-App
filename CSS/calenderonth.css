@@ -12,6 +12,7 @@
 .sidebar .first-part .side-icons,
 .sidebar .second-part .side-icons {
   display: flex;
+  margin-top: -5px;
 }
 .sidebar .first-part .side-icons svg,
 .sidebar .second-part .side-icons svg {
@@ -31,8 +32,11 @@
   font-size: 1.2rem;
 }
 .right-part #btn-clr {
-  background-color: rgb(55, 74, 219);
   color: white;
+}
+.right-part #btn-clr p {
+  background-color: rgb(55, 74, 219);
+  width: 4rem;
 }
 .right-part .dropdown2023 {
   margin-left: 45%;

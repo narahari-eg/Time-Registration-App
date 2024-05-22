@@ -12,6 +12,7 @@
 .sidebar .first-part .side-icons,
 .sidebar .second-part .side-icons {
   display: flex;
+  margin-top: 1rem;
 }
 .sidebar .first-part .side-icons svg,
 .sidebar .second-part .side-icons svg {
